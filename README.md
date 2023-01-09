@@ -5,9 +5,7 @@ Nus iss helper
 There are some information about nus iss
 
 ## Examples
-* "What is nus iss"
 * "Where is nus iss"
-* "What does nus iss teach"
 
 ## Credits
 tangyi
